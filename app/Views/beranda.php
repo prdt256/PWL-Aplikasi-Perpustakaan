@@ -71,7 +71,7 @@
         <a href="#"><i class="fa fa-envelope me-2"></i> Pesan</a>
 
         <p class="menu-title">Lanjutan</p>
-        <a href="#"><i class="fa fa-sign-out-alt me-2"></i> Keluar</a>
+        <a href="/logout"><i class="fa fa-sign-out-alt me-2"></i> Keluar</a>
     </div>
 
     <div class="flex-grow-1">
